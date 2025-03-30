@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Tradelens
-=======
 ## Overview
 This project focuses on the development of a comprehensive stock forecasting model that leverages a news factor analyzing framework for enhanced interpretability. By analyzing historical stock data for 10 companies spanning the last five years, the model provides accurate forecasts, visual plots, and component breakdowns, enabling predictions for horizons ranging from 1 to 4 years.
 
