@@ -22,7 +22,6 @@ The Tradelens platform also includes a dedicated news section that aggregates re
 - **Streamlit** – Front-end framework for interactive web apps.
 - **HTML, CSS, JavaScript** – Standard web technologies for UI design.
 - **Chart.js & Plotly** – Generates dynamic and interactive visualizations.
-- **Bootstrap** – Ensures responsive and modern UI design.
 
 ### **Backend & Machine Learning**
 - **Alpha Vantage** – Fetches financial market data.
